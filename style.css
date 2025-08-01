@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  padding: 50px
+}
+
+button {
+  background-color: purple;
+  color: white;
+  padding: 12px  20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:hotpink;
+}
